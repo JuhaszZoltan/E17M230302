@@ -4,6 +4,7 @@
     {
         public string Idozites { get; set; }
         public string Felirat { get; set; }
+
         public string SrtIdozites
         {
             get 
